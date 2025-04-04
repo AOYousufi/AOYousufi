@@ -5,7 +5,6 @@
 - 🔭 Previously trained as a Full-Stack Developer at Northcoders.
 - 🌱 Passionate about solving problems through code and exploring new technologies.
 - 📫 You can reach me at [ozairyousufi1400@gmail.com](mailto:ozairyousufi1400@gmail.com).
-- 📌 [Download my CV](Link to your CV PDF).
 
 ### 🌐 Socials:
 [![Email](https://img.shields.io/badge/-Email-red?style=flat-square&logo=gmail)](mailto:ozairyousufi1400@gmail.com)
