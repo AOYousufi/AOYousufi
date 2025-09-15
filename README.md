@@ -26,6 +26,12 @@
 ### 📈 GitHub Stats:
 ![Sultan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=AOYousufi&show_icons=true&theme=radical&hide_border=true&count_private=true)
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AOYousufi/AOYousufi/github-breakout/images/breakout-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AOYousufi/AOYousufi/github-breakout/images/breakout-light.svg" />
+  <img alt="Breakout Game" src="https://raw.githubusercontent.com/AOYousufi/AOYousufi/github-breakout/images/breakout-light.svg" />
+</picture>
+
 ### 🎯 Currently Working On:
 - 📱 Expanding my knowledge in **AI Integration**.
 
