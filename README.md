@@ -44,6 +44,5 @@
 - **[Virtual Exhibition Web App]([Link to Repo](https://github.com/AOYousufi/Virtual-Exhibiton))**
 
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AOYousufi&show_icons=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AOYousufi&layout=compact)
+
 
