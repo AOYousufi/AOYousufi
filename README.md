@@ -25,7 +25,6 @@
 
 ### 📈 GitHub Stats:
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AOYousufi&show_icons=true)
-
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AOYousufi&layout=compact)
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=AOYousufi)
