@@ -73,6 +73,7 @@ I’m a Software Development student who enjoys building practical things, break
 ### ✨
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&width=435&lines=Building+things+that+actually+work;Learning+every+day;Backend+focused+developer"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1200&center=true&width=540&lines=Yes%2C+this+README+is+handcrafted;No%2C+the+bugs+are+not;Thanks+for+stopping+by+%F0%9F%91%8B"/>
 </p>
+
 
