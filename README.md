@@ -1,5 +1,14 @@
 ## 👋 Ahmad Ozair Yousufi (Sultan)
 
+I’m a Software Development student who enjoys building practical things, breaking them, and fixing them properly.
+
+### 👨‍💻 About me
+- 🎓 BSc Software Development at Staffordshire University  
+- 🧠 Former Full-Stack trainee at Northcoders  
+- 🔍 I like backend logic, clean APIs, and problem-solving more than flashy UI  
+- 🌱 Currently focusing on Python, backend development, and AI integration  
+- 📫 Reach me at: [ozairyousufi1400@gmail.com](mailto:ozairyousufi1400@gmail.com)
+
 ### 🛠 Tech Stack
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white"/>
@@ -28,26 +37,46 @@
 
 ---
 
-### 📈 Contribution Activity
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AOYousufi"/>
-</p>
-
----
-
 ### 📌 Featured Repositories
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=AOYousufi&repo=my-plants-FE"/>
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=AOYousufi&repo=NC-News-BE"/>
+  <a href="https://github.com/AOYousufi/my-plants-FE">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=AOYousufi&repo=my-plants-FE"/>
+  </a>
+
+  <a href="https://github.com/AOYousufi/NC-News-BE">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=AOYousufi&repo=NC-News-BE"/>
+  </a>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=AOYousufi&repo=Virtual-Exhibiton"/>
+  <strong>My Plants</strong> – React Native mobile app for plant tracking and reminders  
+  <br/>
+  <strong>NC News</strong> – Full-stack REST API with authentication, testing, and database design
 </p>
+
+<br/>
+
+<p align="center">
+  <a href="https://github.com/AOYousufi/Virtual-Exhibiton">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=AOYousufi&repo=Virtual-Exhibiton"/>
+  </a>
+</p>
+
+<p align="center">
+  <strong>Virtual Exhibition</strong> – Interactive web app showcasing exhibitions with dynamic content
+</p>
+
 
 ---
 
-### 🎮 GitHub Breakout
+### 🚧 What I’m working on now
+- Improving backend depth with **Python**
+- Learning how to integrate **AI features** into real applications
+- Writing cleaner, more maintainable code (less magic, more clarity)
+
+---
+
+### 🎮 Just for fun
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AOYousufi/AOYousufi/github-breakout/images/breakout-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AOYousufi/AOYousufi/github-breakout/images/breakout-light.svg" />
