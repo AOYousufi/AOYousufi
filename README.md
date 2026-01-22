@@ -24,7 +24,9 @@
 ![TDD](https://img.shields.io/badge/-TDD-lightgray?logo=jest&style=flat-square)
 
 ### 📈 GitHub Stats:
-![Sultan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=AOYousufi&show_icons=true&theme=radical&hide_border=true&count_private=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AOYousufi&show_icons=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AOYousufi&layout=compact)
+
 
 ### GitHub Commits:
 <picture>
