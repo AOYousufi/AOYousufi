@@ -40,3 +40,8 @@
 - **[My-Plants Mobile App]([Link to Repo](https://github.com/AOYousufi/my-plants-FE))**
 - **[NC-News Full-stack App]([Link to Repo](https://github.com/AOYousufi/NC-News-BE))**
 - **[Virtual Exhibition Web App]([Link to Repo](https://github.com/AOYousufi/Virtual-Exhibiton))**
+
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AOYousufi&show_icons=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AOYousufiE&layout=compact)
+
