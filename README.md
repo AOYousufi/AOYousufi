@@ -49,23 +49,10 @@ I’m a Software Development student who enjoys building practical things, break
 </p>
 
 <p align="center">
-  <strong>My Plants</strong> – React Native mobile app for plant tracking and reminders  
-  <br/>
-  <strong>NC News</strong> – Full-stack REST API with authentication, testing, and database design
-</p>
-
-<br/>
-
-<p align="center">
   <a href="https://github.com/AOYousufi/Virtual-Exhibiton">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=AOYousufi&repo=Virtual-Exhibiton"/>
   </a>
 </p>
-
-<p align="center">
-  <strong>Virtual Exhibition</strong> – Interactive web app showcasing exhibitions with dynamic content
-</p>
-
 
 ---
 
@@ -82,3 +69,10 @@ I’m a Software Development student who enjoys building practical things, break
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AOYousufi/AOYousufi/github-breakout/images/breakout-light.svg" />
   <img alt="Breakout Game" src="https://raw.githubusercontent.com/AOYousufi/AOYousufi/github-breakout/images/breakout-light.svg" />
 </picture>
+
+### ✨
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&width=435&lines=Building+things+that+actually+work;Learning+every+day;Backend+focused+developer"/>
+</p>
+
