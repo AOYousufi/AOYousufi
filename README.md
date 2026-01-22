@@ -43,5 +43,5 @@
 
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AOYousufi&show_icons=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AOYousufiE&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AOYousufi&layout=compact)
 
