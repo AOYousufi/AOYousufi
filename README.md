@@ -1,4 +1,4 @@
-## 👋 Ahmad Ozair Yousufi (Sultan)
+## 👋 Ahmad Yousufi 
 
 I’m a Software Development student who enjoys building practical things, breaking them, and fixing them properly.
 
