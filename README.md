@@ -27,8 +27,8 @@ I’m a Software Development student who enjoys building practical things, break
 
 ### 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AOYousufi&show_icons=true" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AOYousufi&layout=compact" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=AOYousufi"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AOYousufi" />
 </p>
 
 <p align="center">
