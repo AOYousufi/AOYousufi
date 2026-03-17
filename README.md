@@ -25,11 +25,11 @@ I’m a Software Development student who enjoys building practical things, break
 ### 📊 GitHub Stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=AOYousufi"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AOYousufi" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=AOYousufi" height="170"/>
 </p>
 
-<p align="left">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=AOYousufi" height="170"/>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AOYousufi" />
 </p>
 
 ---
