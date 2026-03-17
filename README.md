@@ -6,20 +6,17 @@ I’m a Software Development student who enjoys building practical things, break
 - 🎓 BSc Software Development at Staffordshire University  
 - 🧠 Former Full-Stack trainee at Northcoders  
 - 🔍 I like backend logic, clean APIs, and problem-solving more than flashy UI  
-- 🌱 Currently focusing on Python, backend development, and AI integration  
+- 🌱 Currently focusing on Javascript, backend development, and AI integration  
 - 📫 Reach me at: [ozairyousufi1400@gmail.com](mailto:ozairyousufi1400@gmail.com)
 
 ### 🛠 Tech Stack
 <p align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white"/>
   <img src="https://img.shields.io/badge/JavaScript-000000?logo=javascript"/>
   <img src="https://img.shields.io/badge/React-20232A?logo=react"/>
-  <img src="https://img.shields.io/badge/React%20Native-20232A?logo=react"/>
   <img src="https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white"/>
   <img src="https://img.shields.io/badge/Express-000000?logo=express"/>
   <img src="https://img.shields.io/badge/PostgreSQL-336791?logo=postgresql"/>
   <img src="https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white"/>
   <img src="https://img.shields.io/badge/GitHub-181717?logo=github"/>
 </p>
 
@@ -31,7 +28,7 @@ I’m a Software Development student who enjoys building practical things, break
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AOYousufi" />
 </p>
 
-<p align="center">
+<p align="left">
   <img src="https://github-readme-streak-stats.herokuapp.com?user=AOYousufi" height="170"/>
 </p>
 
@@ -57,8 +54,7 @@ I’m a Software Development student who enjoys building practical things, break
 ---
 
 ### 🚧 What I’m working on now
-- Improving backend depth with **Python**
-- Learning how to integrate **AI features** into real applications
+- Improving backend depth with **Javascript**
 - Writing cleaner, more maintainable code (less magic, more clarity)
 
 ---
