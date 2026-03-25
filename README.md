@@ -51,19 +51,30 @@ BSc Software Development student at **Staffordshire University**, with hands-on 
 ## 📌 Featured Projects
 
 <p align="center">
-  <a href="https://github.com/AOYousufi/NC-News-BE">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=AOYousufi&repo=NC-News-BE&theme=tokyonight&hide_border=true"/>
-  </a>
   <a href="https://github.com/AOYousufi/my-plants-FE">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=AOYousufi&repo=my-plants-FE&theme=tokyonight&hide_border=true"/>
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=AOYousufi&repo=my-plants-FE&description_lines_count=3" />
   </a>
-</p>
-<p align="center">
-  <a href="https://github.com/AOYousufi/Virtual-Exhibiton">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=AOYousufi&repo=Virtual-Exhibiton&theme=tokyonight&hide_border=true"/>
+
+  <a href="https://github.com/AOYousufi/my-plants-BE">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=AOYousufi&repo=my-plants-BE&description_lines_count=3" />
   </a>
 </p>
 
+<p align="center">
+  <a href="https://github.com/AOYousufi/NC-News-BE">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=AOYousufi&repo=NC-News-BE&description_lines_count=3" />
+  </a>
+
+  <a href="https://github.com/AOYousufi/NC-news-FE">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=AOYousufi&repo=NC-news-FE&description_lines_count=3" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/AOYousufi/Virtual-Exhibiton">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=AOYousufi&repo=Virtual-Exhibiton&description_lines_count=3" />
+  </a>
+</p>
 ---
 
 ## 🚧 Currently Working On
