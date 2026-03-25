@@ -37,7 +37,7 @@ I’m a Software Development student who enjoys building practical things, break
 ### 📌 Featured Repositories
 <p align="center">
   <a href="https://github.com/AOYousufi/my-plants-FE">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=AOYousufi&repo=my-plants-FE"/>
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=AOYousufi&repo=my-plants-FE&description_lines_count=3"/>
   </a>
 
   <a href="https://github.com/AOYousufi/NC-News-BE">
