@@ -1,101 +1,176 @@
 <div align="center">
 
-# Ahmad Yousufi
-### Backend-focused Software Developer · JavaScript · Node.js · APIs
+<!-- HEADER WAVE -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:0a3d2e,100:00ff88&height=220&section=header&text=Ahmad%20Yousufi&fontSize=62&fontColor=00ff88&fontAlignY=38&desc=Backend%20Developer%20%E2%80%94%20Building%20Systems%20That%20Don't%20Break&descColor=8b949e&descAlignY=58&descSize=16&animation=fadeIn" width="100%"/>
 
-[![Email](https://img.shields.io/badge/Email-ozairyousufi1400%40gmail.com-blue?style=flat&logo=gmail&logoColor=white)](mailto:ozairyousufi1400@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-AOYousufi-181717?style=flat&logo=github)](https://github.com/AOYousufi)
+</div>
+
+<!-- VISITOR + STATUS BADGES -->
+<div align="center">
+
+![Visitors](https://komarev.com/ghpvc/?username=AOYousufi&style=flat-square&color=00ff88&label=PROFILE+VIEWS)
+![Status](https://img.shields.io/badge/STATUS-OPEN%20TO%20WORK-00ff88?style=flat-square&logo=checkmarx&logoColor=black)
+![Location](https://img.shields.io/badge/LOCATION-UK-00bfff?style=flat-square&logo=google-maps&logoColor=white)
+![Focus](https://img.shields.io/badge/FOCUS-Backend%20%2F%20APIs-ff6b35?style=flat-square&logo=node.js&logoColor=white)
 
 </div>
 
 ---
 
-## 👨‍💻 About Me
+```
+┌─────────────────────────────────────────────────────────────────────┐
+│                                                                       │
+│   $ whoami                                                            │
+│                                                                       │
+│   > Ahmad Yousufi — Backend-focused developer                         │
+│   > Staffordshire University · BSc Software Development              │
+│   > Northcoders Bootcamp Graduate                                     │
+│   > I build APIs that don't fall apart under pressure                 │
+│   > I care about why it breaks, not just that it broke                │
+│                                                                       │
+│   $ cat interests.txt                                                 │
+│   > Backend architecture · AI integration · Clean code               │
+│   > Systems that scale · Debugging at 2am · Learning in public       │
+│                                                                       │
+└─────────────────────────────────────────────────────────────────────┘
+```
 
-BSc Software Development student at **Staffordshire University**, with hands-on training from **Northcoders' Full-Stack bootcamp**. I care more about building reliable, well-structured backends than chasing trendy UI. My focus is writing clean, maintainable code that solves real problems.
+<br/>
 
-- 🔧 Strongest in: **Node.js · Express · PostgreSQL · REST APIs**
-- 🌱 Currently deepening: **Backend architecture & AI integration**
-- 🧪 I like to understand *why* something breaks, not just patch it
-- 📫 **ozairyousufi1400@gmail.com**
+<!-- ANIMATED TYPING -->
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&pause=1000&color=00FF88&center=true&vCenter=true&multiline=false&repeat=true&width=600&height=45&lines=const+developer+%3D+%22Ahmad+Yousufi%22;Building+APIs+that+don't+lie+to+you.;Node.js+%7C+Express+%7C+PostgreSQL+%7C+REST;Senior+devs+hire+people+who+think+first.;Open+to+junior+backend+%26+full-stack+roles." alt="Typing SVG" />
+</div>
 
----
-
-## 🛠 Tech Stack
-
-<p align="center">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white"/>
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
-  <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white"/>
-</p>
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AOYousufi&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" height="165"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=AOYousufi&theme=tokyonight&hide_border=true" height="165"/>
-</p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AOYousufi&layout=compact&theme=tokyonight&hide_border=true"/>
-</p>
+<br/>
 
 ---
 
-## 📌 Featured Projects
-
-<p align="center">
-  <a href="https://github.com/AOYousufi/my-plants-FE">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=AOYousufi&repo=my-plants-FE&description_lines_count=3&theme=tokyonight&hide_border=true" />
-  </a>
-  <a href="https://github.com/AOYousufi/my-plants-BE">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=AOYousufi&repo=my-plants-BE&description_lines_count=3&theme=tokyonight&hide_border=true" />
-  </a>
-</p>
-<p align="center">
-  <a href="https://github.com/AOYousufi/NC-News-BE">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=AOYousufi&repo=NC-News-BE&description_lines_count=3&theme=tokyonight&hide_border=true" />
-  </a>
-  <a href="https://github.com/AOYousufi/NC-news-FE">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=AOYousufi&repo=NC-news-FE&description_lines_count=3&theme=tokyonight&hide_border=true" />
-  </a>
-</p>
-<p align="center">
-  <a href="https://github.com/AOYousufi/Virtual-Exhibiton">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=AOYousufi&repo=Virtual-Exhibiton&description_lines_count=3&theme=tokyonight&hide_border=true" />
-  </a>
-</p>
----
-
-## 🚧 Currently Working On
-
-- Deepening backend architecture skills in **Node.js / Express**
-- Exploring **AI API integration** into web projects
-- Contributing to open source JavaScript projects
-- Writing cleaner, less clever code — clarity over magic
-
----
-
-## 🎮 Just for Fun
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AOYousufi/AOYousufi/github-breakout/images/breakout-dark.svg"/>
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AOYousufi/AOYousufi/github-breakout/images/breakout-light.svg"/>
-  <img alt="GitHub contribution breakout game" src="https://raw.githubusercontent.com/AOYousufi/AOYousufi/github-breakout/images/breakout-light.svg"/>
-</picture>
-
----
+## ⚡ Arsenal
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1200&color=58A6FF&center=true&width=540&lines=Yes%2C+this+README+is+handcrafted;No%2C+the+bugs+are+not+a+feature;Thanks+for+stopping+by+%F0%9F%91%8B"/>
+**Core**
 
-*Open to junior backend / full-stack roles — let's build something useful.*
+[![My Skills](https://skillicons.dev/icons?i=js,ts,nodejs,express,postgres,mongodb&theme=dark&perline=6)](https://skillicons.dev)
+
+**Frontend & Tools**
+
+[![My Skills](https://skillicons.dev/icons?i=react,html,css,git,jest,linux&theme=dark&perline=6)](https://skillicons.dev)
+
+**Learning & Exploring**
+
+[![My Skills](https://skillicons.dev/icons?i=python,aws,docker,redis&theme=dark&perline=4)](https://skillicons.dev)
 
 </div>
+
+---
+
+## 📡 System Stats
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=AOYousufi&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=0d1117&title_color=00ff88&icon_color=00ff88&text_color=c9d1d9&include_all_commits=true&count_private=true&rank_icon=github" height="175" />
+<img src="https://github-readme-streak-stats.herokuapp.com?user=AOYousufi&theme=dark&hide_border=true&background=0D1117&ring=00FF88&fire=FF6B35&currStreakLabel=00FF88&sideLabels=8B949E&dates=8B949E&stroke=00ff8820" height="175" />
+
+</div>
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AOYousufi&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=0d1117&title_color=00ff88&text_color=c9d1d9&langs_count=6" height="140"/>
+
+</div>
+
+<div align="center">
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=AOYousufi&theme=matrix&no-frame=true&no-bg=true&column=7&margin-w=4)](https://github.com/ryo-ma/github-profile-trophy)
+
+</div>
+
+---
+
+## 🗂 Featured Work
+
+> **Real projects. Real decisions. Real trade-offs.**
+
+<br/>
+
+<div align="center">
+
+<!-- ROW 1 -->
+<a href="https://github.com/AOYousufi/my-plants-BE">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=AOYousufi&repo=my-plants-BE&theme=chartreuse-dark&hide_border=true&bg_color=0d1117&title_color=00ff88&icon_color=ff6b35&text_color=c9d1d9&description_lines_count=3" />
+</a>
+<a href="https://github.com/AOYousufi/my-plants-FE">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=AOYousufi&repo=my-plants-FE&theme=chartreuse-dark&hide_border=true&bg_color=0d1117&title_color=00ff88&icon_color=ff6b35&text_color=c9d1d9&description_lines_count=3" />
+</a>
+
+<!-- ROW 2 -->
+<a href="https://github.com/AOYousufi/NC-News-BE">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=AOYousufi&repo=NC-News-BE&theme=chartreuse-dark&hide_border=true&bg_color=0d1117&title_color=00ff88&icon_color=ff6b35&text_color=c9d1d9&description_lines_count=3" />
+</a>
+<a href="https://github.com/AOYousufi/NC-news-FE">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=AOYousufi&repo=NC-news-FE&theme=chartreuse-dark&hide_border=true&bg_color=0d1117&title_color=00ff88&icon_color=ff6b35&text_color=c9d1d9&description_lines_count=3" />
+</a>
+
+<!-- ROW 3 -->
+<a href="https://github.com/AOYousufi/Virtual-Exhibiton">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=AOYousufi&repo=Virtual-Exhibiton&theme=chartreuse-dark&hide_border=true&bg_color=0d1117&title_color=00ff88&icon_color=ff6b35&text_color=c9d1d9&description_lines_count=3" />
+</a>
+
+</div>
+
+---
+
+## 🔭 Currently Building
+
+```javascript
+const currentFocus = {
+  deepening:   ["Backend architecture", "REST API design patterns"],
+  exploring:   ["AI API integration", "System design fundamentals"],
+  practicing:  ["TDD with Jest", "SQL query optimisation"],
+  reading:     ["Clean Code — Robert C. Martin"],
+  principle:   "Clarity over cleverness. Always."
+};
+```
+
+---
+
+## 🎮 Contribution Arcade — Break My Commits
+
+> *Every green square is a commit. Go on then.*
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/AOYousufi/AOYousufi/github-breakout/images/breakout-dark.svg"/>
+  <source media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/AOYousufi/AOYousufi/github-breakout/images/breakout-light.svg"/>
+  <img alt="Contribution Breakout Game" width="98%"
+    src="https://raw.githubusercontent.com/AOYousufi/AOYousufi/github-breakout/images/breakout-light.svg"/>
+</picture>
+
+</div>
+
+---
+
+## 📬 Let's Talk
+
+<div align="center">
+
+If you're building something backend-heavy and need someone who thinks before they type — that's me.
+
+<br/>
+
+[![Email](https://img.shields.io/badge/Email-ozairyousufi1400%40gmail.com-00ff88?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0d1117)](mailto:ozairyousufi1400@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-AOYousufi-00ff88?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117)](https://github.com/AOYousufi)
+
+<br/>
+
+*Junior backend / full-stack role · Remote or UK · Available now*
+
+</div>
+
+<!-- FOOTER WAVE -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00ff88,50:0a3d2e,100:0d1117&height=120&section=footer&animation=fadeIn" width="100%"/>
