@@ -9,7 +9,7 @@
 <!-- status badges -->
 ![Views](https://komarev.com/ghpvc/?username=AOYousufi&style=flat-square&color=4f8eff&label=PROFILE+VIEWS&labelColor=0a0a1a)
 ![Status](https://img.shields.io/badge/STATUS-OPEN%20TO%20WORK-4f8eff?style=flat-square&labelColor=0a0a1a)
-![Location](https://img.shields.io/badge/UK-Stone%2C+Staffs-00d4ff?style=flat-square&labelColor=0a0a1a)
+![Location](https://img.shields.io/badge/UK-Staffordshire-00d4ff?style=flat-square&labelColor=0a0a1a)
 ![Stack](https://img.shields.io/badge/STACK-Node+%7C+Express+%7C+PostgreSQL-7c3aed?style=flat-square&labelColor=0a0a1a)
 [![Email](https://img.shields.io/badge/EMAIL-ozairyousufi1400%40gmail.com-8888aa?style=flat-square&logo=gmail&labelColor=0a0a1a)](mailto:ozairyousufi1400@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LINKEDIN-connect-4f8eff?style=flat-square&logo=linkedin&labelColor=0a0a1a)](https://linkedin.com/in/ahmad-ozair-yousufi-08b469326)
@@ -19,7 +19,7 @@
 ---
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=600&size=14&pause=1500&color=4F8EFF&center=true&vCenter=true&repeat=true&width=700&height=45&lines=const+Ahmad+%3D+new+FullStackDeveloper%28%29%3B;Node.js+%7C+Express+%7C+PostgreSQL+%7C+React;clarity+over+cleverness+%E2%80%94+always;I+debug+by+understanding%2C+not+by+guessing;Junior+SWE+%C2%B7+UK+%C2%B7+Remote+%C2%B7+Available" />
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=600&size=14&pause=1500&color=4F8EFF&center=true&vCenter=true&repeat=true&width=700&height=45&lines=const+Ahmad+%3D+new+FullStackDeveloper%28%29%3B;Node.js+%7C+Express+%7C+PostgreSQL+%7C+React;clarity+over+cleverness+%E2%80%94+always;I+debug+by+undersstanding%2C+not+by+guessing;Junior+SWE+%C2%B7+UK+%C2%B7+Remote+%C2%B7+Available" />
 </div>
 
 ---
@@ -60,31 +60,6 @@
 <div align="center">
   <img src="./assets/npm-install.svg" width="100%" alt="npm install ahmad-yousufi — animated skill reveal"/>
 </div>
-
----
-
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<!--  WHAT I BUILD                                                    -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
-
-## ⚙️ WHAT I BUILD
-
-```
- CLIENT                     SERVER                    DATABASE
- ┌───────────┐  HTTP/REST   ┌─────────────────┐  SQL  ┌────────────┐
- │  React    │ ──────────►  │  Express.js     │ ────► │ PostgreSQL │
- │  (Vite)   │ ◄──────────  │  Node.js        │ ◄──── │ / MongoDB  │
- └───────────┘  JSON + 2xx  └────────┬────────┘  rows └────────────┘
-                                     │
-                      ┌──────────────┴──────────────┐
-                      │       Jest Test Suite         │
-                      │  unit · integration · e2e     │
-                      │          ✓ all passing         │
-                      └──────────────────────────────┘
-
-  Focused on: clean routes · proper error handling · structured data
-              RESTful design · meaningful tests · readable schemas
-```
 
 ---
 
@@ -234,54 +209,6 @@ const Ahmad = {
 
 // → The code I write today should be readable by a stranger tomorrow.
 ```
-
----
-
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<!--  CONTRIBUTION SNAKE                                             -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
-
-## 🐍 WATCH MY COMMITS GET EATEN
-
-<div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)"
-    srcset="https://raw.githubusercontent.com/AOYousufi/AOYousufi/output/github-contribution-grid-snake-dark.svg"/>
-  <source media="(prefers-color-scheme: light)"
-    srcset="https://raw.githubusercontent.com/AOYousufi/AOYousufi/output/github-contribution-grid-snake.svg"/>
-  <img alt="Contribution Snake" width="100%"
-    src="https://raw.githubusercontent.com/AOYousufi/AOYousufi/output/github-contribution-grid-snake-dark.svg"/>
-</picture>
-
-</div>
-
-<details>
-<summary><sub>🔧 Setup: add <code>.github/workflows/snake.yml</code> to generate this automatically</sub></summary>
-
-```yaml
-name: Generate Snake
-on:
-  schedule: [{ cron: "0 0 * * *" }]
-  workflow_dispatch:
-jobs:
-  generate:
-    runs-on: ubuntu-latest
-    steps:
-      - uses: Platane/snk@v3
-        with:
-          github_user_name: ${{ github.repository_owner }}
-          outputs: |
-            dist/github-contribution-grid-snake.svg
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
-      - uses: crazy-max/ghaction-github-pages@v3
-        with:
-          target_branch: output
-          build_dir: dist
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-```
-</details>
 
 ---
 
