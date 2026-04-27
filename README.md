@@ -1,50 +1,42 @@
 <div align="center">
 
 <!-- ═══════════════════════════════════════════════════════════════ -->
-<!--                        HEADER                                   -->
+<!--  HEADER                                                         -->
 <!-- ═══════════════════════════════════════════════════════════════ -->
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,40:051a10,100:00ff88&height=240&section=header&text=Ahmad%20Yousufi&fontSize=66&fontColor=00ff88&fontAlignY=38&desc=Backend%20Developer%20%E2%80%94%20I%20build%20systems%20that%20don%27t%20lie%20to%20you&descColor=8b949e&descAlignY=60&descSize=15&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:050510,35:0a1a3a,75:1a0a40,100:4f8eff&height=220&section=header&text=Ahmad%20Ozair%20Yousufi&fontSize=58&fontColor=e8e8f0&fontAlignY=38&desc=Junior%20Software%20Engineer%20%E2%80%94%20I%20build%20things%20that%20don%27t%20lie%20to%20you&descColor=8888aa&descAlignY=60&descSize=15&animation=fadeIn" width="100%"/>
 
-![Visitors](https://komarev.com/ghpvc/?username=AOYousufi&style=flat-square&color=00ff88&label=PROFILE+VIEWS)
-![Status](https://img.shields.io/badge/STATUS-OPEN%20TO%20WORK-00ff88?style=flat-square)
-![Location](https://img.shields.io/badge/UK-Stone%2C%20Staffs-00bfff?style=flat-square)
-![Stack](https://img.shields.io/badge/STACK-Node%20%7C%20Express%20%7C%20PostgreSQL-ff6b35?style=flat-square)
-[![Email](https://img.shields.io/badge/EMAIL-ozairyousufi1400%40gmail.com-8b949e?style=flat-square&logo=gmail)](mailto:ozairyousufi1400@gmail.com)
+<!-- status badges -->
+![Views](https://komarev.com/ghpvc/?username=AOYousufi&style=flat-square&color=4f8eff&label=PROFILE+VIEWS&labelColor=0a0a1a)
+![Status](https://img.shields.io/badge/STATUS-OPEN%20TO%20WORK-4f8eff?style=flat-square&labelColor=0a0a1a)
+![Location](https://img.shields.io/badge/UK-Stone%2C+Staffs-00d4ff?style=flat-square&labelColor=0a0a1a)
+![Stack](https://img.shields.io/badge/STACK-Node+%7C+Express+%7C+PostgreSQL-7c3aed?style=flat-square&labelColor=0a0a1a)
+[![Email](https://img.shields.io/badge/EMAIL-ozairyousufi1400%40gmail.com-8888aa?style=flat-square&logo=gmail&labelColor=0a0a1a)](mailto:ozairyousufi1400@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LINKEDIN-connect-4f8eff?style=flat-square&logo=linkedin&labelColor=0a0a1a)](https://linkedin.com/in/ahmad-ozair-yousufi-08b469326)
 
 </div>
 
 ---
 
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<!--              LIVE SYSTEM STATUS DASHBOARD (custom SVG)          -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
-
 <div align="center">
-  <img src="./assets/system-status.svg" width="100%" alt="Developer System Status Dashboard"/>
-</div>
-
-<br/>
-
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=16&pause=1200&color=00FF88&center=true&vCenter=true&repeat=true&width=700&height=40&lines=const+me+%3D+new+Developer(%22Ahmad+Yousufi%22)%3B;Building+backends+that+don't+fall+apart+under+pressure.;Node.js+%7C+Express+%7C+PostgreSQL+%7C+REST+APIs;I+care+about+WHY+it+breaks%2C+not+just+THAT+it+broke.;Junior+backend+%2F+full-stack+role+%E2%80%94+available+now." />
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=600&size=14&pause=1500&color=4F8EFF&center=true&vCenter=true&repeat=true&width=700&height=45&lines=const+Ahmad+%3D+new+FullStackDeveloper%28%29%3B;Node.js+%7C+Express+%7C+PostgreSQL+%7C+React;clarity+over+cleverness+%E2%80%94+always;I+debug+by+understanding%2C+not+by+guessing;Junior+SWE+%C2%B7+UK+%C2%B7+Remote+%C2%B7+Available" />
 </div>
 
 ---
 
 <!-- ═══════════════════════════════════════════════════════════════ -->
-<!--                        WHOAMI                                   -->
+<!--  WHOAMI                                                         -->
 <!-- ═══════════════════════════════════════════════════════════════ -->
 
 ```bash
 ┌──────────────────────────────────────────────────────────────────────┐
 │  $ whoami                                                             │
 │                                                                       │
-│  > Ahmad Yousufi                                                      │
+│  > Ahmad Ozair Yousufi                                                │
 │  > BSc Software Development — Staffordshire University                │
 │  > Northcoders Full-Stack Bootcamp Graduate                           │
-│  > Backend-focused: I'd rather get the API right than make it pretty  │
-│  > I debug by understanding, not by guessing                          │
+│  > Background in business: leadership baked in, not bolted on        │
+│  > Backend-focused. Full-stack capable. Always learning.              │
 │                                                                       │
 │  $ cat /etc/principles                                                │
 │                                                                       │
@@ -54,7 +46,7 @@
 │  > Write code your future self won't hate                             │
 │                                                                       │
 │  $ echo $AVAILABILITY                                                 │
-│  > Junior backend / full-stack · UK · Remote · Now                    │
+│  > Junior SWE · Full-Stack · UK · Remote · Now                        │
 │                                                                       │
 └──────────────────────────────────────────────────────────────────────┘
 ```
@@ -62,10 +54,20 @@
 ---
 
 <!-- ═══════════════════════════════════════════════════════════════ -->
-<!--                     WHAT I BUILD                                -->
+<!--  ★ THE SURPRISE: npm install ahmad-yousufi                      -->
 <!-- ═══════════════════════════════════════════════════════════════ -->
 
-## ⚙️ What I Build
+<div align="center">
+  <img src="./assets/npm-install.svg" width="100%" alt="npm install ahmad-yousufi — animated skill reveal"/>
+</div>
+
+---
+
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!--  WHAT I BUILD                                                    -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
+
+## ⚙️ WHAT I BUILD
 
 ```
  CLIENT                     SERVER                    DATABASE
@@ -78,7 +80,7 @@
                       │       Jest Test Suite         │
                       │  unit · integration · e2e     │
                       │          ✓ all passing         │
-                      └─────────────────────────────-─┘
+                      └──────────────────────────────┘
 
   Focused on: clean routes · proper error handling · structured data
               RESTful design · meaningful tests · readable schemas
@@ -87,10 +89,10 @@
 ---
 
 <!-- ═══════════════════════════════════════════════════════════════ -->
-<!--                      GIT LOG PHILOSOPHY                         -->
+<!--  GIT LOG PHILOSOPHY                                             -->
 <!-- ═══════════════════════════════════════════════════════════════ -->
 
-## 📜 Engineering Philosophy — `git log --oneline`
+## 📜 ENGINEERING PHILOSOPHY — `git log --oneline`
 
 ```git
 a9f3c21 (HEAD -> main)  feat: write code that doesn't lie to you
@@ -105,72 +107,61 @@ e5d9c33 (origin/main)   init: commit to the craft, not the trend
 ---
 
 <!-- ═══════════════════════════════════════════════════════════════ -->
-<!--                         STATS                                   -->
+<!--  LIVE SYSTEM STATUS                                             -->
 <!-- ═══════════════════════════════════════════════════════════════ -->
 
-## 📡 System Stats
+## 📡 LIVE SYSTEM STATUS
+
+<div align="center">
+  <img src="./assets/system-status.svg" width="100%" alt="Developer System Status Dashboard"/>
+</div>
+
+---
+
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!--  GITHUB STATS                                                   -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
+
+## 📊 SYSTEM STATS
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=AOYousufi&show_icons=true&hide_border=true&bg_color=0d1117&title_color=00ff88&icon_color=00ff88&text_color=c9d1d9&ring_color=00ff88&include_all_commits=true&count_private=true&rank_icon=github&custom_title=Ahmad%27s+Dev+Stats" height="180"/>
-<img src="https://github-readme-streak-stats.herokuapp.com?user=AOYousufi&hide_border=true&background=0D1117&ring=00FF88&fire=FF6B35&currStreakLabel=00FF88&sideLabels=8B949E&dates=8B949E&stroke=00ff8815&currStreakNum=00FF88&sideNums=c9d1d9" height="180"/>
+<img src="https://github-readme-stats.vercel.app/api?username=AOYousufi&show_icons=true&hide_border=true&bg_color=050510&title_color=4f8eff&icon_color=4f8eff&text_color=e8e8f0&ring_color=4f8eff&include_all_commits=true&count_private=true&rank_icon=github&custom_title=Ahmad%27s+Dev+Stats" height="180"/>
+<img src="https://github-readme-streak-stats.herokuapp.com?user=AOYousufi&hide_border=true&background=050510&ring=4f8eff&fire=7c3aed&currStreakLabel=4f8eff&sideLabels=8888aa&dates=8888aa&stroke=4f8eff20&currStreakNum=4f8eff&sideNums=e8e8f0" height="180"/>
 
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AOYousufi&layout=compact&hide_border=true&bg_color=0d1117&title_color=00ff88&text_color=c9d1d9&langs_count=8" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AOYousufi&layout=compact&hide_border=true&bg_color=050510&title_color=4f8eff&text_color=e8e8f0&langs_count=8" height="150"/>
 </div>
 
 <div align="center">
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=AOYousufi&theme=matrix&no-frame=true&no-bg=true&column=7&margin-w=6)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=AOYousufi&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=6)](https://github.com/ryo-ma/github-profile-trophy)
 
 </div>
 
 ---
 
 <!-- ═══════════════════════════════════════════════════════════════ -->
-<!--                    ACTIVITY GRAPH                               -->
+<!--  ACTIVITY GRAPH                                                 -->
 <!-- ═══════════════════════════════════════════════════════════════ -->
 
-## 📈 Contribution Activity
+## 📈 CONTRIBUTION ACTIVITY
 
 <div align="center">
 
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=AOYousufi&bg_color=0d1117&color=00ff88&line=00ff88&point=ff6b35&area=true&area_color=00ff8815&hide_border=true&custom_title=Contribution%20Graph%20%E2%80%94%20AOYousufi)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=AOYousufi&bg_color=050510&color=4f8eff&line=4f8eff&point=7c3aed&area=true&area_color=4f8eff15&hide_border=true&custom_title=Contribution%20Graph%20%E2%80%94%20AOYousufi)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 </div>
 
 ---
 
 <!-- ═══════════════════════════════════════════════════════════════ -->
-<!--                  PROFILE SUMMARY CARDS                         -->
+<!--  ARSENAL                                                        -->
 <!-- ═══════════════════════════════════════════════════════════════ -->
 
-## 📊 Deep Metrics
-
-<div align="center">
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AOYousufi&theme=merko" width="100%"/>
-
-</div>
-
-<div align="center">
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=AOYousufi&theme=merko" height="160"/>
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=AOYousufi&theme=merko" height="160"/>
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=AOYousufi&theme=merko" height="160"/>
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=AOYousufi&theme=merko" height="160"/>
-
-</div>
-
----
-
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<!--                        ARSENAL                                  -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
-
-## ⚡ Arsenal
+## ⚡ ARSENAL
 
 <div align="center">
 
@@ -191,31 +182,31 @@ e5d9c33 (origin/main)   init: commit to the craft, not the trend
 ---
 
 <!-- ═══════════════════════════════════════════════════════════════ -->
-<!--                    FEATURED PROJECTS                            -->
+<!--  FEATURED PROJECTS                                              -->
 <!-- ═══════════════════════════════════════════════════════════════ -->
 
-## 📌 Featured Work
+## 📌 FEATURED WORK
 
 > Real projects. Real decisions. Real trade-offs.
 
 <div align="center">
 
 <a href="https://github.com/AOYousufi/my-plants-BE">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=AOYousufi&repo=my-plants-BE&hide_border=true&bg_color=0d1117&title_color=00ff88&icon_color=ff6b35&text_color=c9d1d9&description_lines_count=3"/>
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=AOYousufi&repo=my-plants-BE&hide_border=true&bg_color=050510&title_color=4f8eff&icon_color=7c3aed&text_color=e8e8f0&description_lines_count=3"/>
 </a>
 <a href="https://github.com/AOYousufi/my-plants-FE">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=AOYousufi&repo=my-plants-FE&hide_border=true&bg_color=0d1117&title_color=00ff88&icon_color=ff6b35&text_color=c9d1d9&description_lines_count=3"/>
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=AOYousufi&repo=my-plants-FE&hide_border=true&bg_color=050510&title_color=4f8eff&icon_color=7c3aed&text_color=e8e8f0&description_lines_count=3"/>
 </a>
 
 <a href="https://github.com/AOYousufi/NC-News-BE">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=AOYousufi&repo=NC-News-BE&hide_border=true&bg_color=0d1117&title_color=00ff88&icon_color=ff6b35&text_color=c9d1d9&description_lines_count=3"/>
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=AOYousufi&repo=NC-News-BE&hide_border=true&bg_color=050510&title_color=4f8eff&icon_color=7c3aed&text_color=e8e8f0&description_lines_count=3"/>
 </a>
 <a href="https://github.com/AOYousufi/NC-news-FE">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=AOYousufi&repo=NC-news-FE&hide_border=true&bg_color=0d1117&title_color=00ff88&icon_color=ff6b35&text_color=c9d1d9&description_lines_count=3"/>
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=AOYousufi&repo=NC-news-FE&hide_border=true&bg_color=050510&title_color=4f8eff&icon_color=7c3aed&text_color=e8e8f0&description_lines_count=3"/>
 </a>
 
 <a href="https://github.com/AOYousufi/Virtual-Exhibiton">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=AOYousufi&repo=Virtual-Exhibiton&hide_border=true&bg_color=0d1117&title_color=00ff88&icon_color=ff6b35&text_color=c9d1d9&description_lines_count=3"/>
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=AOYousufi&repo=Virtual-Exhibiton&hide_border=true&bg_color=050510&title_color=4f8eff&icon_color=7c3aed&text_color=e8e8f0&description_lines_count=3"/>
 </a>
 
 </div>
@@ -223,10 +214,10 @@ e5d9c33 (origin/main)   init: commit to the craft, not the trend
 ---
 
 <!-- ═══════════════════════════════════════════════════════════════ -->
-<!--                     CURRENT FOCUS                               -->
+<!--  CURRENTLY RUNNING                                              -->
 <!-- ═══════════════════════════════════════════════════════════════ -->
 
-## 🔭 Currently Running
+## 🔭 CURRENTLY RUNNING
 
 ```javascript
 const Ahmad = {
@@ -247,10 +238,10 @@ const Ahmad = {
 ---
 
 <!-- ═══════════════════════════════════════════════════════════════ -->
-<!--                  CONTRIBUTION SNAKE                             -->
+<!--  CONTRIBUTION SNAKE                                             -->
 <!-- ═══════════════════════════════════════════════════════════════ -->
 
-## 🐍 Watch My Commits Get Eaten
+## 🐍 WATCH MY COMMITS GET EATEN
 
 <div align="center">
 
@@ -295,10 +286,10 @@ jobs:
 ---
 
 <!-- ═══════════════════════════════════════════════════════════════ -->
-<!--                  CONTRIBUTION ARCADE                            -->
+<!--  CONTRIBUTION ARCADE                                            -->
 <!-- ═══════════════════════════════════════════════════════════════ -->
 
-## 🎮 Contribution Arcade — Break My Commits
+## 🎮 CONTRIBUTION ARCADE — BREAK MY COMMITS
 
 > *Every block is a commit. Try harder.*
 
@@ -318,10 +309,10 @@ jobs:
 ---
 
 <!-- ═══════════════════════════════════════════════════════════════ -->
-<!--                       CONTACT                                   -->
+<!--  CONTACT                                                        -->
 <!-- ═══════════════════════════════════════════════════════════════ -->
 
-## 📬 Hire Me — Or Just Say Hi
+## 📬 HIRE ME — OR JUST SAY HI
 
 <div align="center">
 
@@ -337,19 +328,21 @@ If you need someone who:
 
 <br/>
 
-[![Email](https://img.shields.io/badge/ozairyousufi1400%40gmail.com-SEND%20IT-00ff88?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0d1117)](mailto:ozairyousufi1400@gmail.com)
+[![Email](https://img.shields.io/badge/ozairyousufi1400%40gmail.com-SEND%20IT-4f8eff?style=for-the-badge&logo=gmail&logoColor=white&labelColor=050510)](mailto:ozairyousufi1400@gmail.com)
 &nbsp;&nbsp;
-[![GitHub](https://img.shields.io/badge/AOYousufi-GITHUB-00ff88?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117)](https://github.com/AOYousufi)
+[![GitHub](https://img.shields.io/badge/AOYousufi-GITHUB-7c3aed?style=for-the-badge&logo=github&logoColor=white&labelColor=050510)](https://github.com/AOYousufi)
+&nbsp;&nbsp;
+[![LinkedIn](https://img.shields.io/badge/Ahmad%20Yousufi-LINKEDIN-00d4ff?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=050510)](https://linkedin.com/in/ahmad-ozair-yousufi-08b469326)
 
 <br/>
 
-*Junior backend / full-stack · UK · Remote · Available now*
+*Junior SWE · Full-Stack · UK · Remote · Available now*
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=13&pause=2500&color=8B949E&center=true&width=520&lines=Thanks+for+making+it+to+the+bottom.;Most+recruiters+don%27t.+You%27re+already+different." />
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=12&pause=3000&color=8888AA&center=true&width=520&lines=Thanks+for+making+it+to+the+bottom.;Most+people+don%27t.+You%27re+already+different." />
 
 </div>
 
 <!-- ═══════════════════════════════════════════════════════════════ -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00ff88,60:0a3d2e,100:0d1117&height=120&section=footer&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:4f8eff,40:1a0a40,80:0a0a1a,100:050510&height=120&section=footer&animation=fadeIn" width="100%"/>
