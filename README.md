@@ -11,7 +11,7 @@
 
 ## About me
 
-I'm a Software Development student at Staffordshire University with a background in full-stack development and commercial QA testing.
+I'm a Software Development student at University of Staffordshire with a background in full-stack development and commercial QA testing.
 
 I completed the Northcoders Full-Stack Software Development bootcamp, where I worked with JavaScript, React, React Native, Node.js, Express, PostgreSQL, MongoDB and automated testing.
 
@@ -55,7 +55,7 @@ Collaborative React Native plant-care app with a Node.js, Express and MongoDB ba
 
 ## A bit more
 
-- BSc (Hons) Software Development with Placement Year at Staffordshire University
+- BSc (Hons) Software Development with Placement Year at University of Staffordshire
 - Northcoders Full-Stack Software Development graduate
 - Commercial QA experience using Jira and working through product launch cycles
 - Most interested in backend and full-stack engineering, but I enjoy testing because it forces you to understand how software actually behaves
